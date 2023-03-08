@@ -7,3 +7,4 @@
 4. ls -la     = Displays current directory contents, including hidden files (starting with .). Use the long format
 5. ls ald     = Display current directory contents. Long format, with user and group IDs displayed numerically, And hidden files (starting with .)
 6. mkdir -p   = Creates a directory within a parent directory.
+7.mv	      = Moves file from one directory to another
