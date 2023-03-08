@@ -13,3 +13,4 @@
 10. cd -      = Changes the working directory to the previous one
 11. ls	      = current directory(.)  parent directory(..) and /boot
 12. file      = Prints the type of the file
+13. ln -s     = Used to create a symbolic/soft link
