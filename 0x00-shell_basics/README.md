@@ -9,3 +9,4 @@
 6. mkdir -p   = Creates a directory within a parent directory.
 7. mv	      = Moves file from one directory to another
 8. rm	      = For deleting files
+9. rm -r      = Deletes directories (empty and filled)
