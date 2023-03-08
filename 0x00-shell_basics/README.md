@@ -11,3 +11,4 @@
 8. rm	      = For deleting files
 9. rm -r      = Deletes directories (empty and filled)
 10. cd -      = Changes the working directory to the previous one
+11. ls	      = current directory(.)  parent directory(..) and /boot
