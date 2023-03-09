@@ -15,3 +15,6 @@ chmod	- Create a script that creates a directory called my_dir with permissions 
 chgrp	- Changes the group owner to school for the file hello
 chown	- Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 chown	- Changes the owner and the group owner of _hello to vincent and staff respectively
+
+telnet towel.blinkenlights.nl	- Play the StarWars IV episode in the terminal
+					sudo apt install telnet
