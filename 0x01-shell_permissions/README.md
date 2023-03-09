@@ -13,4 +13,5 @@ chmod	- Write a script that sets the mode of the file hello the same as olleh’
 chmod	- Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 chmod	- Create a script that creates a directory called my_dir with permissions 751 in the working directory
 chgrp	- Changes the group owner to school for the file hello
+chown	- Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 chown	- Changes the owner and the group owner of _hello to vincent and staff respectively
